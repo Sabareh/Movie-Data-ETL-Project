@@ -2,7 +2,7 @@
 
 **Movie Data ETL Project** is a comprehensive repository designed to streamline the process of Extracting, Transforming, and Loading (ETL) movie-related datasets. This project aims to facilitate the aggregation, cleaning, and organization of diverse movie data from various sources, empowering users to efficiently manipulate and analyze information for their specific needs.
 
-Within this repository, you'll find a robust set of tools and scripts meticulously crafted for each stage of the ETL process. Whether you're dealing with raw data from IMDb, Rotten Tomatoes, or other sources, this project provides a seamless framework to extract relevant information, transform it into a standardized format, and load it into a database or data warehouse for further analysis.
+Within this repository, you'll find a script meticulously crafted for each stage of the ETL process. Whether you're dealing with raw data from IMDb, Rotten Tomatoes, or other sources, this project provides a seamless framework to extract relevant information, transform it into a standardized format, and load it into a database or data warehouse for further analysis.
 
 ## Key Features
 
