@@ -4,8 +4,8 @@ import pyspark.sql
 ##create spark session
 spark = pyspark.sql.SparkSession \
         .builder \
-        .appName("Python Spark SQL basic example") \
-        .config('spark.driver.extraClassPath', "/Users/harshittyagi/Downloads/postgresql-42.2.18.jar") \
+        .appName("Python Spark SQL basic ETL") \
+        .config('spark.driver.extraClassPath', "/Users/VICTOR/Downloads/postgresql-42.2.18.jar") \
         .getOrCreate()
 
 ##read movies table from db using spark
